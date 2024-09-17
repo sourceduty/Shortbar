@@ -27,7 +27,7 @@ A third design worth noting is the tiling taskbar or workspace-centric design, f
 
 #
 
-> Alex: "*A simpler taskbar with 5 dropdown buttons.*"
+> Alex: "*A simpler taskbar with 5 pop-up or dropdown buttons.*"
 
 #
 ### Related Links
