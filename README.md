@@ -15,6 +15,10 @@ A crucial part of this development is ensuring a seamless user experience across
 In conclusion, the Sourceduty Shortbar is an innovative feature of the Sourceduty OS and Microsoft Windows that redefines the user experience through a simple, categorized taskbar. By focusing on user needs for a clutter-free, functional desktop environment, the Shortbar enhances productivity and creates a more intuitive experience. This concept is a key part of Sourceduty’s commitment to delivering a robust, user-friendly, and highly customizable operating system.
 
 #
+
+> Alex: "*A simpler taskbar with 5 dropdown buttons.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
