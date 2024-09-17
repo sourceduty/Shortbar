@@ -15,6 +15,17 @@ A crucial part of this development is ensuring a seamless user experience across
 In conclusion, the Sourceduty Shortbar is an innovative feature of the Sourceduty OS and Microsoft Windows that redefines the user experience through a simple, categorized taskbar. By focusing on user needs for a clutter-free, functional desktop environment, the Shortbar enhances productivity and creates a more intuitive experience. This concept is a key part of Sourceduty’s commitment to delivering a robust, user-friendly, and highly customizable operating system.
 
 #
+### Taskbar Designs
+
+![Taskbars](https://github.com/user-attachments/assets/e045faf9-92ec-4a78-949d-dc246b984f17)
+
+Alternative taskbar designs have gained traction as users seek more intuitive and personalized interfaces in operating systems like Windows, Linux, and macOS. One popular alternative design is the dock-style taskbar seen in macOS and Linux distributions such as elementary OS. This design features a centered dock with application icons, providing quick access to frequently used programs. It offers a sleek, visually appealing interface where users can customize which applications appear, and the icons are dynamic, showing open applications or alerts. By offering a clean, visually engaging layout, dock-style taskbars emphasize simplicity while giving users easy access to their tools.
+
+Another approach is the panel-based design commonly seen in customizable Linux environments like KDE Plasma and XFCE. These taskbars allow users to create multiple panels that can be placed anywhere on the screen—top, bottom, or sides. With panels, users can include widgets, shortcuts, or system information, making it highly customizable to individual workflow preferences. This flexibility is particularly useful for power users who require detailed control over their desktop environment, as the panels can display detailed system metrics, active windows, and even web-based widgets.
+
+A third design worth noting is the tiling taskbar or workspace-centric design, found in tiling window managers such as i3 or sway on Linux. These systems often focus on keyboard-driven navigation, and the taskbar dynamically updates as users switch between different workspaces or virtual desktops. Instead of showing every open program, the taskbar displays only the programs running within the current workspace, decluttering the interface. This approach suits users who prefer an organized workspace without distractions, especially in development or design environments where multiple applications need to be grouped logically across different virtual desktops. The tiling and workspace-centric design enhances multitasking by grouping related tasks together and reducing visual clutter.
+
+#
 
 > Alex: "*A simpler taskbar with 5 dropdown buttons.*"
 
