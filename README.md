@@ -1,4 +1,4 @@
-![Shortbar Program](https://github.com/user-attachments/assets/6bdae1bc-79bd-42d3-ae50-3ca438b51b8f)
+![Shortbar Concept](https://github.com/user-attachments/assets/d855d2ee-20e4-4408-97ea-a67070c31eb4)
 
 > An innovated taskbar design for Windows and Sourceduty OS.
 
