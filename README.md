@@ -22,6 +22,10 @@ In conclusion, the Sourceduty Shortbar is an innovative feature of the Sourcedut
 [Taskbar Programmer](https://github.com/sourceduty/Taskbar_Programmer)
 <br>
 [Windows](https://github.com/sourceduty/Windows)
+<br>
+[Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
+<br>
+[OS Developer](https://github.com/sourceduty/OS_Developer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
